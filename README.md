@@ -1,1 +1,2 @@
 # linto
+Achimota school
